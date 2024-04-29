@@ -1,0 +1,4 @@
+Pen [id=1, brand=CELLO, color=Red, inkColor=Blue, material=PLASTIC, quantity=200, updateDate=2024-04-25, listDate=2024-03-25, price=20.0, discountpercent=0.0% ]
+Pen [id=2, brand=PARKER, color=Blue, inkColor=Red, material=STEEL, quantity=100, updateDate=2024-04-25, listDate=2024-03-25, price=20.0, discountpercent=0.0% ]
+Pen [id=3, brand=CELLO, color=red, inkColor=yellow, material=GOLD, quantity=400, updateDate=2024-04-28, listDate=2024-04-28, price=60.0, discountpercent=0.0% ]
+Pen [id=4, brand=TRIMAX, color=red, inkColor=yellow, material=GOLD, quantity=400, updateDate=2024-03-23, listDate=2024-03-23, price=50.0, discountpercent=0.0% ]
