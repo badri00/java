@@ -1,0 +1,9 @@
+-follow java conventions when naming packages,classes,methods and variables.
+-use arraylist to store items in memory
+-must provide exception handling
+-must provide proper validations if given in problem,provide code explicity ,do not give blank validations.
+-must provide proper functionalities as given above with proper methods (explicitly)
+-must provide getters and setters explicitly
+-create different .java files for class, enums(if required),utilities(functions),exceptions,validations(if asked) and main file.
+
+As I am a new programmer and I cant code in Java you must provide all this explicitly and the program should run without any error.
