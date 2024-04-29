@@ -1,0 +1,4 @@
+WithdrawalAmount,DepositAmount,Narration,TransactionDate
+0,10000,Salary Credit,2024-04-26
+1000,0,Mobile Recharge,2024-03-22
+0,3000, shopping,2024-04-27
