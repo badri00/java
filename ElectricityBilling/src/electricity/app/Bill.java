@@ -1,4 +1,4 @@
-
+package electricity.app;
 import electricity.app.*;
 public class Bill {
     private String billNo;
