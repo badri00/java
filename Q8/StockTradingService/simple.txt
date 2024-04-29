@@ -1,0 +1,5 @@
+Stock [StockId=a1, StockName=a, CompanyName=abc, Price=100.0, ClosingDate=2025-02-02, Quantity=1000] 
+Stock [StockId=a2, StockName=b, CompanyName=qwe, Price=150.0, ClosingDate=2025-03-03, Quantity=1200] 
+Stock [StockId=a3, StockName=c, CompanyName=asd, Price=200.0, ClosingDate=2025-04-04, Quantity=1300] 
+Stock [StockId=a4, StockName=d, CompanyName=zxc, Price=250.0, ClosingDate=2025-05-05, Quantity=1400] 
+Stock [StockId=a5, StockName=e, CompanyName=rty, Price=300.0, ClosingDate=2025-06-06, Quantity=1500] 
